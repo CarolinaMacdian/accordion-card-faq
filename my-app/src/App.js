@@ -1,6 +1,6 @@
 /** @format */
 
-import logo from "./logo.svg";
+import logo from "./images/favicon-32x32.png";
 import "./App.css";
 
 function App() {
@@ -24,7 +24,7 @@ function App() {
             target='_blank'>
             Frontend Mentor
           </a>
-          . Coded by <a href='#'>Your Name Here</a>.
+          . Coded by <a href='#'>Carolina Macdian</a>.
         </div>
       </body>
     </div>
